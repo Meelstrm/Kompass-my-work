@@ -59,5 +59,5 @@ Feel free to reach out if you want to know more about the project or my work!
 **Melissa Öström**  
 Fullstack Development Student | Volunteer Developer  
 melisa.ostrom@outlook.com  
-[LinkedIn](www.linkedin.com/in/melissaostrom)
+[LinkedIn](https://www.linkedin.com/in/melissaostrom)
 
