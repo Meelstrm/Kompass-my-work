@@ -14,6 +14,15 @@ Development started with mocked data to design and test functionality. Once the 
 
 ---
 
+## Demo
+
+A short walkthrough of the Compass volunteer flow I built at noQ.
+
+[Watch the video here](https://youtu.be/L4yjd7nKKBI)  
+*Language: Swedish*
+
+---
+
 ## Key Features
 
 - Multi-step page flow: Start → Service Type → Age Group → Result Page
@@ -40,4 +49,15 @@ Development started with mocked data to design and test functionality. Once the 
 ## Notes
 
 Some files reference internal logic from the original noQ codebase (for example, `useLogin`). These are included only to preserve the original structure and are not functional in this standalone version. 
+
+---
+
+## Contact
+
+Feel free to reach out if you want to know more about the project or my work!
+
+**Melissa Öström**  
+Fullstack Development Student | Volunteer Developer  
+melisa.ostrom@outlook.com  
+[LinkedIn](www.linkedin.com/in/melissaostrom)
 
