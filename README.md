@@ -63,7 +63,10 @@ Curious about this project or want to connect?
 
 **Melissa Öström**  
 Fullstack Development Student @ Nackademin 
+
 Fullstack Developer (Pro bono) @ noQ
+
 📧 melisa.ostrom@outlook.com  
+
 [LinkedIn](https://www.linkedin.com/in/melissaostrom)
 
